@@ -1,11 +1,11 @@
 body {
-background-color: black;
+    background-color: black;
 
 }
 
 .cabin {
-font-family: "Cabin";
-size: 18px;
+    font-family: "Cabin";
+    size: 25px;
 
 }
 
@@ -14,7 +14,8 @@ size: 18px;
     font-family: "Cabin";
     font-size: medium;
 }
-.turquesa{
+
+.turquesa {
 
     background-color: turquoise;
 }
@@ -22,7 +23,7 @@ size: 18px;
 .card {
     background-color: turquoise;
     color: white;
-    
+
 }
 
 .navbar {
@@ -31,7 +32,6 @@ size: 18px;
 }
 
 .mb {
-padding-top: "50px;"
+    padding-top: "50px;"
 }
-
 
