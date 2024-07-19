@@ -2,6 +2,10 @@ body {
     background-color: black;
 
 }
+/*smooth para la pagina*/
+html {
+    scroll-behavior: smooth;
+}
 
 
 /*letras del card*/
