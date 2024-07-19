@@ -3,11 +3,14 @@ body {
 
 }
 
+
+/*letras del card*/
 .cabin {
     font-family: "Cabin";
     size: 25px;
 
 }
+/*ajuste navbar*/
 
 .viajes {
     text-align: left;
@@ -19,13 +22,13 @@ body {
 
     background-color: turquoise;
 }
-
+/*cambio color navbar*/
 .card {
     background-color: turquoise;
     color: white;
 
 }
-
+/*transparente*/
 .navbar {
     background-color: rgba(255, 255, 255, 0.1) !important;
     backdrop-filter: blur(10px);
@@ -35,8 +38,19 @@ body {
     padding-top: "50px;"
 }
 
-.cabin1 {
-    font-family: fantasy;
-    font-size: 40px;
+.form {
+
+text-align: center;
+justify-content: center;
 
 }
+
+.container {
+color: white;
+}
+
+.container h2 {
+    color: white;
+    font-family: "Cabin";
+    size: 25px;
+    }
