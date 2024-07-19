@@ -5,11 +5,39 @@ body {
 
 
 /*letras del card*/
-.cabin {
-    font-family: "Cabin";
-    size: 25px;
+
+
+.raleway1 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 
 }
+
+.raleway2 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+
+  .raleway3 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
+
+
+
+
+
+
+
 /*ajuste navbar*/
 
 .viajes {
