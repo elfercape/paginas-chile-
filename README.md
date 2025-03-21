@@ -1,8 +1,10 @@
-Titulo del proyecto
-Breve descripción del proyecto y su objetivo.
+Paginas Chile
+Este es un proyecto de paginas web que muestra distintos objetivos turisticos.
+Obejtivo es reforzar el atractivo turistico de Chile y sus regiones.
 
 Descripción del proyecto
-¿Estás comenzando un proyecto pequeño, un desafío de programación o un tutorial, y necesitas una forma rápida y sencilla de crear documentación básica? ¡Esta plantilla README minimalista es para ti!
+Es un proyecto de prueba para un trabajo de Ruby on Rails para html, es la mascara de la aplicacion,
+se contruira incluyendo Ruby on Rails, base de datos Postgresql y AWS.
 
 Capturas de Pantalla del Proyecto
 Incluir capturas de pantalla o imágenes que muestren el proyecto en funcionamiento.
